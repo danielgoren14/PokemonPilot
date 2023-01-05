@@ -1,5 +1,11 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+      FirePokemon firePokemon = null;
+        System.out.println();
+
+
+    }
+    private void mainMenu(){
+
     }
 }

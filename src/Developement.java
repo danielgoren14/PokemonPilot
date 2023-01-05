@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class Developement {
+public interface Developement  {
+     void upgrade();
+
+
+
 }
